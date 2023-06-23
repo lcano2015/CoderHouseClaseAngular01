@@ -1,0 +1,17 @@
+/* Estilos CSS para el toolbar */
+
+#toolbar {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+#toolbar .right-links {
+  float: right;
+}
+
+#toolbar .right-links a {
+  margin-left: 10px;
+  color: #333;
+  text-decoration: none;
+}
